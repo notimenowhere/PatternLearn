@@ -8,7 +8,8 @@ public class LabSpace {
 
 		
 
-		System.out.println("ddd");		
+		System.out.println("ddd");
+		System.out.println("what is next");
 
 	}
 
